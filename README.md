@@ -1,7 +1,6 @@
 # To_Do_List
-
 MINOR PROJECT
-# To_Do_List
+
 
             Partners: Jyotiraditya Prasad Dash, Chinmaya Priyadarshan Sethi
             https://github.com/JyotiradityaPrDash/
