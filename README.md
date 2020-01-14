@@ -2,7 +2,8 @@
 MINOR PROJECT
 
 
-            Partners: Jyotiraditya Prasad Dash, Chinmaya Priyadarshan Sethi
+            Partners: Jyotiraditya Prasad Dash
+                      Chinmaya Priyadarshan Sethi
             https://github.com/JyotiradityaPrDash/
             https://github.com/ChinmayaSethi720
 
