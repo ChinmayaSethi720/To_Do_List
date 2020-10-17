@@ -4,10 +4,10 @@ import tkinter
 root = tkinter.Tk()
 
 #change root window background colour
-root.configure(bg="khaki")
+root.configure(bg="blue")
 
 #change the title
-root.title("My To-Do List")
+root.title("To-Do List")
 
 #change size
 root.geometry("250x600")
